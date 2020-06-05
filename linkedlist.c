@@ -9,7 +9,7 @@ struct node {
    int key;
    struct node *next;
 };
-
+/* first code changes */
 struct node *head = NULL;
 struct node *current = NULL;
 
